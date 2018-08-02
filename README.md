@@ -1,5 +1,6 @@
 # Security-Surviellance
-Security surviellance system, to detect anomaly in indoor scenarios
+Security Surviellance System 
 
 ## Source Code: Matlab
+
 ## Developed as a part of summer research project at NIIT University
